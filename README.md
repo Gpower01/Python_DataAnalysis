@@ -3,7 +3,7 @@
  This project provides detailed information and guidance on Exploratory Data Analysis and Visualisations for Data Science projects from fundamental to Advanced using Python. First I explored the different arithmetic operators, syntax and data types in python and demonstrates how to:
 
  - load/read data 
- - using Numpy array and Pandas
+ - use Numpy array and Pandas
  - visualise data using Matplotlib and Seaborn
  - clean data and compute for missing data
 
@@ -52,16 +52,31 @@
 
 # Data Visualisation
 
+## Capstone Projects
+
+Capstone projects demonstrated the powerful application of Python Data Analysis using Numpy, Pandas and DataFrame and the explore the Data using visulisation libraries such as Matplotlib and Seaborn for effective Data Analysis and Interpretations.
+
+## Example of Visualisation Results from the Capstone Project.
+
+- Count Plot: Reasons
+![Count_plot](./images/countplot_reasons.png)
+
+- Count Plot: Day of Week
+![Count_plot](./images/Day_of_week_Countplot.png)
+
+- lm plot
+
+![Count_plot](./images/lmplot.png)
+
+- Time Series Plot
+![Count_plot](./images/traffic_plot.png)
+
+- Heatmaps
+![Count_plot](./images/heatmap.png)
 
 
 
 
 
 
-
-
-
-
-
-
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) ![PyPI](https://img.shields.io/pypi/v/fairlearn?color=blue) [![Gitter](https://badges.gitter.im/fairlearn/community.svg)](https://gitter.im/fairlearn/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
+![MIT license](https://img.shields.io/badge/License-MIT-blue.svg) ![PyPI](https://img.shields.io/pypi/v/fairlearn?color=blue) [![Gitter](https://badges.gitter.im/fairlearn/community.svg)](https://gitter.im/fairlearn/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) 
