@@ -52,7 +52,7 @@
 
 # Data Visualisation
 
-## Capstone Projects
+## Capstone Project: Ananlysis of 911 Call Dataset
 
 Capstone projects demonstrated the powerful application of Python Data Analysis using Numpy, Pandas and DataFrame and the explore the Data using visulisation libraries such as Matplotlib and Seaborn for effective Data Analysis and Interpretations.
 
@@ -66,16 +66,38 @@ Capstone projects demonstrated the powerful application of Python Data Analysis 
 
 - lm plot
 
-![Count_plot](./images/lmplot.png)
+![lm_plot](./images/lmplot.png)
 
 - Time Series Plot
-![Count_plot](./images/traffic_plot.png)
+![Time_Series](./images/traffic_plot.png)
 
 - Heatmaps
-![Count_plot](./images/heatmap.png)
+![Heatmap](./images/heatmap.png)
 
 
+## Capstone Project: Stock Price Dataset Analysis
+This project analysed the stock prices of different banks using advance analytics tool and visualisation libraries. Example of results presented in the analysis notebook are:
 
+- Stock Price Analysis
+![stock_price_analysis](./images/Stock_price_analysis.png)
+
+- Matplotlib Visualisation
+![Matplot_visualisation](./images/Matplotlib_visualisation.png)
+
+- Moving Average Result
+![moving_average_analysis](./images/moving_averages.png)
+
+- Heatmap
+![Stock_Price_Heatmap](./images/Stock_heatmap_plot.png)
+
+- iplot visualisation
+![iplot_Heatmap](./images/iplot_heatmap.png)
+
+- Candle Stick Analysis
+![Candle_Stick](./images/candle_stick_stock_analysis.png)
+
+- Cufflinks Visualtion
+![Cufflinks](./images/cufflinks.png)
 
 
 
